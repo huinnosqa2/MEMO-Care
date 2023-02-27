@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__sc-ieecCq icKGXT_1</name>
+   <tag></tag>
+   <elementGuidId>5379d53f-fc17-49b7-9e6d-8f6be925fd3f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='@']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sc-bkkeKt.bXjQif > input.sc-ieecCq.icKGXT</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>7a39a4b1-7710-4ddb-b97d-b57de4743c4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>0241055a-cbb1-4360-bc18-eef2df64f77b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-ieecCq icKGXT</value>
+      <webElementGuid>7e8bb6fe-3eef-4dc1-8f20-a009c226d2f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>@</value>
+      <webElementGuid>08da3ba2-03b7-4126-b4f9-e1156eaaf726</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-eGRUor cOTRZE&quot;]/div[@class=&quot;sc-ctqQKy efYUQn&quot;]/div[@class=&quot;sc-fmBCVi kagCfw&quot;]/div[@class=&quot;sc-lkgTHX ifsjJA&quot;]/div[@class=&quot;sc-cbTzjv gyJFdX&quot;]/div[@class=&quot;sc-fotOHu gBAKDM&quot;]/div[@class=&quot;sc-bkkeKt bXjQif&quot;]/input[@class=&quot;sc-ieecCq icKGXT&quot;]</value>
+      <webElementGuid>ddd5abc1-0ab0-454f-b734-b6544625aa46</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='@']</value>
+      <webElementGuid>8a7416ab-6869-4e33-ac23-af80e1e71315</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[3]/div[2]/div/input</value>
+      <webElementGuid>371770f8-b0e2-4e7c-8509-c9952d7a8406</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/input</value>
+      <webElementGuid>c4a59b6c-eea4-4738-824b-6f74763500f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'password']</value>
+      <webElementGuid>a7d51535-df13-4cc4-ad20-9bfb1991ffdf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

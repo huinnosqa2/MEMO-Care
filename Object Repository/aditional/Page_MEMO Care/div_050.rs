@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_050</name>
+   <tag></tag>
+   <elementGuidId>a3d35f38-f44f-47a6-b78d-cec25c368e48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div[2]/div/div[2]/div/div[3]/div[2]/div/div[4]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>45208370-6385-4915-8c9f-b474f2f4b111</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-bZSZLb hxXLPP</value>
+      <webElementGuid>fe171341-c147-45bb-a6e4-66d50470816e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>0/50 담기 완료</value>
+      <webElementGuid>9540c400-b90d-4b63-b781-ccdf3210d868</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-jWUzzU dgZbAM&quot;]/div[@class=&quot;sc-eFegNN cGKrit&quot;]/div[@class=&quot;sc-eBHJIF jnAICa&quot;]/div[@class=&quot;sc-ewSTlh jlayFw&quot;]/div[@class=&quot;sc-fDMmqs hWPHwC&quot;]/div[@class=&quot;sc-cdJjGe kLdrRj&quot;]/div[@class=&quot;sc-cOLXoO GXKoS&quot;]/div[@class=&quot;sc-hgkClB ksMjmW&quot;]/div[@class=&quot;sc-gLEhor cNITVc&quot;]/div[@class=&quot;sc-jnSlpE hXepzE&quot;]/div[@class=&quot;sc-cKVNtL jYjGpj&quot;]/div[@class=&quot;sc-bOTDDd iqONgr&quot;]/div[@class=&quot;sc-bZSZLb hxXLPP&quot;]</value>
+      <webElementGuid>3c51437c-2b71-413b-bb2e-e03609a3b5a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div[2]/div/div[2]/div/div[3]/div[2]/div/div[4]/div/div[2]</value>
+      <webElementGuid>a793de4b-aa19-434e-9cbc-0b446984237c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Additional Strip'])[1]/following::div[1]</value>
+      <webElementGuid>e539eb59-ea75-49dc-83e3-2c66e519d62d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VEs(VPCs) Detail Page'])[1]/following::div[5]</value>
+      <webElementGuid>afff28ed-750e-41e4-811e-3a1d9a45b362</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='취소'])[1]/preceding::div[1]</value>
+      <webElementGuid>fdc80118-c364-4aef-a936-d63549cbbd4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='다음'])[1]/preceding::div[3]</value>
+      <webElementGuid>8acfb9f9-5c23-44da-b3b9-6c762889df05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='0/50 담기 완료']/parent::*</value>
+      <webElementGuid>192bdcca-1fdb-4a0b-88fd-ff5baf8ed0d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div[4]/div/div[2]</value>
+      <webElementGuid>7445681b-e2a6-45b6-9829-d33c9bec2f3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '0/50 담기 완료' or . = '0/50 담기 완료')]</value>
+      <webElementGuid>c5bd49d9-6c7d-43b7-bcf0-0fc0f8a8464a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>745ebb87-b786-4b4e-97d1-9e546a733f59</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sc-gRtYjc.fMpIxt > svg > path</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>deada3b9-6111-4810-a336-397ca8878f6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M15.5758 4.43466C15.2307 4.08957 14.6733 4.08957 14.3282 4.43466L10.0013 8.7527L5.67442 4.42581C5.32933 4.08072 4.77187 4.08072 4.42679 4.42581C4.0817 4.7709 4.0817 5.32835 4.42679 5.67344L8.75367 10.0003L4.42679 14.3272C4.0817 14.6723 4.0817 15.2298 4.42679 15.5748C4.77187 15.9199 5.32933 15.9199 5.67442 15.5748L10.0013 11.248L14.3282 15.5748C14.6733 15.9199 15.2307 15.9199 15.5758 15.5748C15.9209 15.2298 15.9209 14.6723 15.5758 14.3272L11.2489 10.0003L15.5758 5.67344C15.9121 5.3372 15.9121 4.7709 15.5758 4.43466Z</value>
+      <webElementGuid>634423ff-71b5-4fa9-9c01-374db3edcaea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#242626</value>
+      <webElementGuid>829d5eba-2b8a-4a29-b468-4d6f7c063ce1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-jWUzzU dgZbAM&quot;]/div[@class=&quot;sc-eFegNN cGKrit&quot;]/div[@class=&quot;sc-eBHJIF jnAICa&quot;]/div[@class=&quot;sc-ewSTlh jlayFw&quot;]/div[@class=&quot;sc-fDMmqs hWPHwC&quot;]/div[@class=&quot;sc-cdJjGe kLdrRj&quot;]/div[@class=&quot;sc-cOLXoO GXKoS&quot;]/div[@class=&quot;sc-hgkClB ksMjmW&quot;]/div[@class=&quot;sc-gRtYjc fMpIxt&quot;]/svg[1]/path[1]</value>
+      <webElementGuid>2cf15f3f-5ca4-4878-8261-d65430cb90b7</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

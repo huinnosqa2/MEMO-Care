@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_2022. HUINNO Co., Ltd. All rights reserved</name>
+   <tag></tag>
+   <elementGuidId>aafc6aa5-9644-4047-9e28-1c8bc76b0ce8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sc-cbTzjv.gyJFdX</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>032e1189-8ed5-40df-a4e2-e3d481e7a61d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-cbTzjv gyJFdX</value>
+      <webElementGuid>1ee3f5c6-2ce9-45f6-9ec4-c07c4159a04a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>비밀번호로그인비밀번호를 잊어버리셨나요?© 2022. HUINNO Co., Ltd. All rights reserved.</value>
+      <webElementGuid>c73af162-6e48-41ec-b0a1-7de7503abd0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-eGRUor cOTRZE&quot;]/div[@class=&quot;sc-ctqQKy efYUQn&quot;]/div[@class=&quot;sc-fmBCVi kagCfw&quot;]/div[@class=&quot;sc-lkgTHX ifsjJA&quot;]/div[@class=&quot;sc-cbTzjv gyJFdX&quot;]</value>
+      <webElementGuid>cd8f34ab-d228-4eaa-8520-62b26cc3d58e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[3]</value>
+      <webElementGuid>703e6332-b32d-48f6-b622-872ea64fdcec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]</value>
+      <webElementGuid>a0f895e8-6e10-46ea-8702-38dffc877ccf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '비밀번호로그인비밀번호를 잊어버리셨나요?© 2022. HUINNO Co., Ltd. All rights reserved.' or . = '비밀번호로그인비밀번호를 잊어버리셨나요?© 2022. HUINNO Co., Ltd. All rights reserved.')]</value>
+      <webElementGuid>8751b265-86ca-49ab-841c-253b46a7be0a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

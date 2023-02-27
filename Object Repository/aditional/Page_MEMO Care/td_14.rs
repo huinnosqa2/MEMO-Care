@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_14</name>
+   <tag></tag>
+   <elementGuidId>bbb79b81-52f5-4fe2-92a8-6140e10a0dde</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div[2]/div/div/div/table/tbody/tr[2]/td[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>b512f524-508d-49d6-a761-abdc1048d4cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-kTLmzF iyIcCm</value>
+      <webElementGuid>bd01cb11-8724-40ef-97ad-e15292d6b134</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>14일</value>
+      <webElementGuid>f8a01dce-2df5-40f5-b509-4b8bcd47b2cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-jWUzzU dgZbAM&quot;]/div[@class=&quot;sc-eFegNN cGKrit&quot;]/div[@class=&quot;sc-eicpiI hMuCmn&quot;]/div[@class=&quot;sc-ewSTlh jlayFw&quot;]/div[@class=&quot;sc-hkgtus hfQuUA&quot;]/div[@class=&quot;sc-fXeWAj fqNAHO&quot;]/div[@class=&quot;sc-fIosxK fNJGla&quot;]/table[@class=&quot;sc-gyElHZ jvrqvf&quot;]/tbody[@class=&quot;sc-fmciRz fpdIGS&quot;]/tr[@class=&quot;sc-iqVWFU hFmXLF&quot;]/td[@class=&quot;sc-kTLmzF iyIcCm&quot;]</value>
+      <webElementGuid>247e4fd0-61ef-48f6-b113-fb7451802001</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div[2]/div/div/div/table/tbody/tr[2]/td[4]</value>
+      <webElementGuid>ea1ab642-d169-4a78-b321-6c2d3043189a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='일반'])[2]/following::td[3]</value>
+      <webElementGuid>eab15ade-f82c-4593-9b56-14575a4bb933</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='보기'])[1]/following::td[4]</value>
+      <webElementGuid>048b07cd-fc31-410a-a497-914fc7cb0f98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='박진현_인터널'])[1]/preceding::td[4]</value>
+      <webElementGuid>f9474eea-9909-460a-a5c9-d3b855e4861d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='편집 중'])[1]/preceding::td[5]</value>
+      <webElementGuid>c19171e1-9064-454c-b439-85debd2839bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[4]</value>
+      <webElementGuid>e342ae87-8c24-4e73-a2ca-5a87a46723de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '14일' or . = '14일')]</value>
+      <webElementGuid>ebe29bb1-68e6-4e81-955d-51248341a38b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

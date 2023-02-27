@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pause43Ep(s)</name>
+   <tag></tag>
+   <elementGuidId>1c6d91d9-760c-4b12-b42c-cf77ef32cc29</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div[2]/div/div[2]/div/div[2]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f894f793-cc6e-4815-982d-247cef5323c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-jefHZX gNJmbq</value>
+      <webElementGuid>ee146fe4-2186-424d-ab28-ecdb614993cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pause43Ep(s)</value>
+      <webElementGuid>9b5fefcc-2439-4412-b36d-fff4d07529dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-jWUzzU dgZbAM&quot;]/div[@class=&quot;sc-eFegNN cGKrit&quot;]/div[@class=&quot;sc-eBHJIF jnAICa&quot;]/div[@class=&quot;sc-ewSTlh jlayFw&quot;]/div[@class=&quot;sc-fDMmqs hWPHwC&quot;]/div[@class=&quot;sc-cdJjGe kLdrRj&quot;]/div[@class=&quot;sc-cOLXoO GXKoS&quot;]/div[@class=&quot;sc-kszsFN eIOYoP&quot;]/div[@class=&quot;sc-iLOkMM cKVUQN&quot;]/div[@class=&quot;sc-jefHZX gNJmbq&quot;]</value>
+      <webElementGuid>ed92d3ca-8e4f-4ccb-9f55-72fcf649ac8c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div[2]/div/div[2]/div/div[2]/div/div[2]</value>
+      <webElementGuid>13ceeb4e-a340-4399-b507-0e9603def9f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ep(s)'])[1]/following::div[1]</value>
+      <webElementGuid>8c9ce91c-576f-43d0-afb1-66bc5da4a1f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AF'])[2]/following::div[4]</value>
+      <webElementGuid>1b728940-4de8-446b-8ee4-3e29e9760eff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div[2]/div/div[2]/div/div[2]</value>
+      <webElementGuid>5bcf22fa-2266-4186-bc6a-def509c70920</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pause43Ep(s)' or . = 'Pause43Ep(s)')]</value>
+      <webElementGuid>f36199e4-c3e9-4a67-903f-502c9f6acfa5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

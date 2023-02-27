@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: Additional Stirip MAX 50
+Description: </description>
+   <name>SQA-56 Additional Stirip MAX 50</name>
+   <tag>jira-integration</tag>
+   <integratedEntity>
+      <productName>JIRA</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;jiraIssue&quot;:{&quot;fields&quot;:{&quot;customFields&quot;:{&quot;customfield_10064&quot;:[],&quot;customfield_10018&quot;:{&quot;hasEpicLinkFieldDependency&quot;:true,&quot;showField&quot;:true,&quot;nonEditableReason&quot;:{&quot;reason&quot;:&quot;PLUGIN_LICENSE_ERROR&quot;,&quot;message&quot;:&quot;상위 링크는 Jira Premium 사용자만 이용할 수 있습니다.&quot;}},&quot;customfield_10019&quot;:&quot;0|i0048v:&quot;,&quot;customfield_10000&quot;:&quot;{}&quot;,&quot;customfield_10047&quot;:[]},&quot;status&quot;:{&quot;id&quot;:1,&quot;description&quot;:&quot;이슈가 생성되었고 Assign 대기중입니다.&quot;,&quot;iconUrl&quot;:&quot;https://huinno.atlassian.net/images/icons/statuses/open.png&quot;,&quot;self&quot;:&quot;https://huinno.atlassian.net/rest/api/2/status/1&quot;,&quot;name&quot;:&quot;N/A&quot;},&quot;project&quot;:{&quot;self&quot;:&quot;https://huinno.atlassian.net/rest/api/2/project/10003&quot;,&quot;key&quot;:&quot;SQA&quot;,&quot;id&quot;:10003,&quot;name&quot;:&quot;SQA&quot;},&quot;components&quot;:[],&quot;summary&quot;:&quot;Additional Stirip MAX 50&quot;,&quot;reporter&quot;:{&quot;emailAddress&quot;:&quot;sangyhyeon.park@huinno.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;박상현&quot;,&quot;self&quot;:&quot;https://huinno.atlassian.net/rest/api/2/user?accountId\u003d6396bebcf7f0ee492fce5465&quot;},&quot;assignee&quot;:{&quot;active&quot;:true,&quot;displayName&quot;:&quot;박래평&quot;,&quot;self&quot;:&quot;https://huinno.atlassian.net/rest/api/2/user?accountId\u003d5ee72443b364ce0abe4d3781&quot;},&quot;priority&quot;:{&quot;id&quot;:2,&quot;self&quot;:&quot;https://huinno.atlassian.net/rest/api/2/priority/2&quot;,&quot;name&quot;:&quot;P1&quot;},&quot;votes&quot;:{&quot;self&quot;:&quot;https://huinno.atlassian.net/rest/api/2/issue/SQA-56/votes&quot;,&quot;votes&quot;:0,&quot;hasVoted&quot;:false},&quot;fixVersions&quot;:[],&quot;subtasks&quot;:[],&quot;labels&quot;:[]},&quot;self&quot;:&quot;https://huinno.atlassian.net/rest/api/2/issue/11256&quot;,&quot;key&quot;:&quot;SQA-56&quot;,&quot;id&quot;:11256}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <testCaseGuid>ff7d05b5-13be-471d-b9cd-6aad7db956f4</testCaseGuid>
+</TestCaseEntity>
