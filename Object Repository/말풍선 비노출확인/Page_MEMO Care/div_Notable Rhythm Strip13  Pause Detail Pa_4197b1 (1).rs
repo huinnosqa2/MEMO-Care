@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Notable Rhythm Strip13  Pause Detail Pa_4197b1 (1)</name>
+   <tag></tag>
+   <elementGuidId>4f40db2f-bf8d-4347-a9e6-8f1b2bd81f7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sc-hgkClB.ksMjmW</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div[2]/div/div[2]/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>961eb6ee-eb30-4b6e-930c-217275cd23c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-hgkClB ksMjmW</value>
+      <webElementGuid>c7080f49-284c-4b06-b647-322d446e0bd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>리포트 담기담을 페이지 선택Notable Rhythm Strip1/3 담기 완료Pause Detail Page0/20 담기 완료Additional Strip2/50 담기 완료취소다음</value>
+      <webElementGuid>3f2e8f1a-6d44-4e48-b3b9-319e08b624bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-jWUzzU dgZbAM&quot;]/div[@class=&quot;sc-eFegNN cGKrit&quot;]/div[@class=&quot;sc-eBHJIF jnAICa&quot;]/div[@class=&quot;sc-ewSTlh jlayFw&quot;]/div[@class=&quot;sc-fDMmqs hWPHwC&quot;]/div[@class=&quot;sc-cdJjGe kLdrRj&quot;]/div[@class=&quot;sc-cOLXoO GXKoS&quot;]/div[@class=&quot;sc-hgkClB ksMjmW&quot;]</value>
+      <webElementGuid>5b756410-8979-4d93-98c9-f57f013b6202</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div[2]/div/div[2]/div/div[3]</value>
+      <webElementGuid>ecbbcee4-56e4-45fa-9086-4d95eda64b8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='리포트 담기'])[1]/following::div[1]</value>
+      <webElementGuid>def2d29d-f9d9-4235-8990-6215f1a8da01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='리포트'])[1]/following::div[5]</value>
+      <webElementGuid>ff5a2f43-9e42-41c7-a6fb-73001fdccc88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div[3]</value>
+      <webElementGuid>ca4d5634-4c82-4b29-9f0a-5a6337c66c82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '리포트 담기담을 페이지 선택Notable Rhythm Strip1/3 담기 완료Pause Detail Page0/20 담기 완료Additional Strip2/50 담기 완료취소다음' or . = '리포트 담기담을 페이지 선택Notable Rhythm Strip1/3 담기 완료Pause Detail Page0/20 담기 완료Additional Strip2/50 담기 완료취소다음')]</value>
+      <webElementGuid>8a669b62-a2ca-491c-812e-bb0fb7376928</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

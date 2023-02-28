@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_2023-02-16</name>
+   <tag></tag>
+   <elementGuidId>c5109beb-64e1-4956-b40d-b7f23f67e4a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div[2]/div/div/div/table/tbody/tr/td[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>3b4ccdc0-9919-4ab3-83a3-13068b19ce60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-kTLmzF iyIcCm</value>
+      <webElementGuid>904fd242-ce9f-40db-9d03-416fc3d2a6e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2023-02-16</value>
+      <webElementGuid>cab9a707-c804-40c5-b493-95d57449c877</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-jWUzzU dgZbAM&quot;]/div[@class=&quot;sc-eFegNN cGKrit&quot;]/div[@class=&quot;sc-eicpiI hMuCmn&quot;]/div[@class=&quot;sc-ewSTlh jlayFw&quot;]/div[@class=&quot;sc-hkgtus hfQuUA&quot;]/div[@class=&quot;sc-fXeWAj fqNAHO&quot;]/div[@class=&quot;sc-fIosxK fNJGla&quot;]/table[@class=&quot;sc-gyElHZ jvrqvf&quot;]/tbody[@class=&quot;sc-fmciRz fpdIGS&quot;]/tr[@class=&quot;sc-iqVWFU hFmXLF&quot;]/td[@class=&quot;sc-kTLmzF iyIcCm&quot;]</value>
+      <webElementGuid>64ec704c-36c7-4296-a235-b6e23dde1466</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div[2]/div/div/div/table/tbody/tr/td[7]</value>
+      <webElementGuid>86af5f19-f24b-4f5b-b674-f144c13658f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='e401ab81'])[1]/following::td[4]</value>
+      <webElementGuid>342ce480-7f45-4d4b-bd13-94b7c120c144</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='일반'])[2]/following::td[6]</value>
+      <webElementGuid>a081c0a9-2e56-4d28-b218-f2396b65f003</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='박상현'])[1]/preceding::td[1]</value>
+      <webElementGuid>f04c2cdd-f344-4e72-9836-60fe3f3cc1d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='편집 중'])[1]/preceding::td[2]</value>
+      <webElementGuid>a2362af0-ea51-496b-936c-ff732031a9c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2023-02-16']/parent::*</value>
+      <webElementGuid>af36b2b5-0305-4844-96f9-b2040d236702</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]</value>
+      <webElementGuid>9cec1073-3483-46a7-a73d-8affaef445ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '2023-02-16' or . = '2023-02-16')]</value>
+      <webElementGuid>bd5324fe-47fe-4293-82ec-447c503235e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

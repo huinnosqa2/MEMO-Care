@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input__sc-ieecCq icKGXT</name>
+   <name>input__sc-ieecCq icKGXT (1)</name>
    <tag></tag>
-   <elementGuidId>2305f764-c048-4da2-863d-67f00733fac5</elementGuidId>
+   <elementGuidId>e960d7c3-027c-4c7d-8661-809f985a3947</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//input[@value='sangyhyeon.park+qa2@huinno.com']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>input.sc-ieecCq.icKGXT</value>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'email']</value>
+         <key>XPATH</key>
+         <value>//input[@value='sangyh']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -26,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d52de412-24b0-4308-a9a9-afa95ca448ed</webElementGuid>
+      <webElementGuid>be4183fa-d877-4f0d-be9b-7b202460152b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -34,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>email</value>
-      <webElementGuid>a9eb3185-8fbd-4ac9-90fc-be0cde4afc74</webElementGuid>
+      <webElementGuid>0ef98ae5-5a4c-4ccd-93ab-99ff51d00dfb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,15 +38,15 @@
       <name>class</name>
       <type>Main</type>
       <value>sc-ieecCq icKGXT</value>
-      <webElementGuid>2f748950-a819-4b99-8609-7d8d17a97dba</webElementGuid>
+      <webElementGuid>0e948e2a-386a-4ce9-ad3b-dc7e4a1b92ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>sangyhyeon.park+qa2@huinno.com</value>
-      <webElementGuid>c8a568de-6209-4bda-b1d7-3ec285f68e63</webElementGuid>
+      <value>sangyh</value>
+      <webElementGuid>c617f125-83e9-402a-a2bd-5f2d39b91adb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,15 +54,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;sc-eGRUor cOTRZE&quot;]/div[@class=&quot;sc-ctqQKy efYUQn&quot;]/div[@class=&quot;sc-fmBCVi kagCfw&quot;]/div[@class=&quot;sc-lkgTHX ifsjJA&quot;]/div[@class=&quot;sc-cbTzjv gyJFdX&quot;]/div[@class=&quot;sc-fotOHu gBAKDM&quot;]/div[@class=&quot;sc-bkkeKt jiEqDn&quot;]/input[@class=&quot;sc-ieecCq icKGXT&quot;]</value>
-      <webElementGuid>0eb8c0d8-3a1f-4140-8d3c-1d33b18063ee</webElementGuid>
+      <webElementGuid>32c77bf7-0494-48ba-931f-3cf535c73349</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@value='sangyhyeon.park+qa2@huinno.com']</value>
-      <webElementGuid>3e30aeda-b156-406a-9ac4-d9e9331aee16</webElementGuid>
+      <value>//input[@value='sangyh']</value>
+      <webElementGuid>cf8c2b9e-d91e-40f6-825e-11c08de616b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div/div[3]/div/div/input</value>
-      <webElementGuid>c592bdb8-1b1e-4f8b-b95c-7f722136b52b</webElementGuid>
+      <webElementGuid>81d70032-a547-46b4-8fef-f4ad634ceeff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>165bce4d-9cdd-4b76-8904-6fea7855357f</webElementGuid>
+      <webElementGuid>57899613-cd0b-4320-bd93-6532bf01864b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'email']</value>
-      <webElementGuid>4316b41f-850a-49e7-b7a8-c9eeaf928843</webElementGuid>
+      <webElementGuid>563e545b-e211-49ef-96e0-1f24c3b144b8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_30  AF</name>
+   <tag></tag>
+   <elementGuidId>226652d8-6432-45ae-b868-4c4be691cff2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiTooltip-tooltip.MuiTooltip-tooltipArrow.MuiTooltip-tooltipPlacementTop.css-8y3x9n</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mui-10']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>369a0293-169d-4cea-be1a-17e4dc56e711</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTooltip-tooltip MuiTooltip-tooltipArrow MuiTooltip-tooltipPlacementTop css-8y3x9n</value>
+      <webElementGuid>98d3c029-621c-4080-b6aa-11a29fd871a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>30초 이상의 AF 이벤트만 리포트에 담을 수 있습니다.</value>
+      <webElementGuid>bb8957c4-3c08-4c3f-a7aa-843ff8ba54a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mui-10&quot;)/div[@class=&quot;MuiTooltip-tooltip MuiTooltip-tooltipArrow MuiTooltip-tooltipPlacementTop css-8y3x9n&quot;]</value>
+      <webElementGuid>03e32550-6cd1-488b-8d93-170933358343</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mui-10']/div</value>
+      <webElementGuid>13849517-c536-47a6-9cbb-a67c43782ae4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='다음'])[1]/following::div[4]</value>
+      <webElementGuid>e915f295-7ced-455f-9a15-e5f96db927a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='취소'])[1]/following::div[6]</value>
+      <webElementGuid>8a67e5ce-a9d9-4f42-b03b-5dfa5180e3be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='30초 이상의 AF 이벤트만 리포트에 담을 수 있습니다.']/parent::*</value>
+      <webElementGuid>334e2a62-0614-40b4-9b47-4667cc4396bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div</value>
+      <webElementGuid>442d539a-4e4a-4d4b-9ca7-dbc065fe9c87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '30초 이상의 AF 이벤트만 리포트에 담을 수 있습니다.' or . = '30초 이상의 AF 이벤트만 리포트에 담을 수 있습니다.')]</value>
+      <webElementGuid>65d8a210-e6d2-48a6-8ccb-2d7411dd3ae8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

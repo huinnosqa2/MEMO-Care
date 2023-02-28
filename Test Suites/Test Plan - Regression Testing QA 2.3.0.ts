@@ -12,7 +12,7 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>bae43b5e-109d-4f95-ad1f-1a32510b3873</testSuiteGuid>
    <testCaseLink>
-      <guid>cafcdb14-e4b9-48c4-8f95-d78303ee6125</guid>
+      <guid>e0142395-0e00-45ef-b5d2-738bb294298d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/SQA-56 Additional Stirip MAX 50</testCaseId>

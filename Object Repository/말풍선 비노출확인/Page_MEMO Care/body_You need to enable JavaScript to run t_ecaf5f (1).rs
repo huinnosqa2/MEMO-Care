@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>body_You need to enable JavaScript to run t_ecaf5f (1)</name>
+   <tag></tag>
+   <elementGuidId>28be0a9a-c9b6-498d-9fda-ac6416fc5080</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>body</value>
+      <webElementGuid>15a27e91-4f00-4d69-81ec-c8e281e5209b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>30초 이상의 AF 이벤트만 리포트에 담을 수 있습니다.</value>
+      <webElementGuid>932f095c-13e2-45da-ac50-e3fcaf4b03d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]</value>
+      <webElementGuid>e90823e5-4665-415d-a3b6-3664bf3a6cf3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body</value>
+      <webElementGuid>6045e75a-227c-49d7-8a6c-87d8823a2463</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//body[(text() = 'You need to enable JavaScript to run this app.Huinno Huinno(MA) 박래평 QA Admin님내 계정비밀번호 변경로그아웃Version 2.2.1e401ab81GeneralHR ReviewEvent ReviewBeat Review리포트 생성검토 완료:Recording Time: 2023-02-13, 16:04 ~ 2023-02-16, 15:52AsleepSVQAFPauseOthersPatientCreated with Highcharts 9.3.2bpm50100150200Created with Highcharts 9.3.202-1302-1402-1502-1618:0021:0000:0003:0006:0009:0012:0015:0018:0021:0000:0003:0006:0009:0012:0015:0018:0021:0000:0003:0006:0009:0012:0015:0015:0018:0002-15,06:12:00Created with Highcharts 9.3.202-15,06:12:30Created with Highcharts 9.3.202-15,06:13:00Created with Highcharts 9.3.202-15,06:13:30Created with Highcharts 9.3.202-15,06:14:00Created with Highcharts 9.3.202-15,06:14:30Created with Highcharts 9.3.202-15,06:15:00Created with Highcharts 9.3.202-15,06:15:30Created with Highcharts 9.3.202-15,06:16:00Created with Highcharts 9.3.202-15,06:16:30Created with Highcharts 9.3.202-15,06:17:00Created with Highcharts 9.3.202-15,06:17:30Created with Highcharts 9.3.202-15,06:18:00Created with Highcharts 9.3.202-15,06:18:30Created with Highcharts 9.3.202-15,06:19:00Created with Highcharts 9.3.202-15,06:19:30Created with Highcharts 9.3.202-15,06:20:00Created with Highcharts 9.3.202-15,06:20:30Created with Highcharts 9.3.202-15,06:21:00Created with Highcharts 9.3.202-15,06:21:30Created with Highcharts 9.3.202-15,06:22:00Created with Highcharts 9.3.2EventsReportAF173Ep(s)Pause10Ep(s)VT0Run(s)Iso VPC257Beat(s)Couplet VPC2Beat(s)SVT17Run(s)Iso APC24,355Beat(s)Couplet APC494Beat(s)Others4Event(s)Patient Events0Event(s)AF171of 173(Sort by Duration)정보Range35 bpm - 58 bpmAvg HR53 bpmDuration6.3sOnset23-02-15, 06:17:06보기Term.23-02-15, 06:17:12보기리포트리포트 담기리포트 담기담을 페이지 선택Notable Rhythm Strip1/3 담기 완료AF Detail Page0/20 담기 완료Additional Strip2/50 담기 완료취소다음id(&quot;report-info-wrapper&quot;)/div[@class=&quot;sc-jWaEpP jQAQbU&quot;]30초 이상의 AF 이벤트만 리포트에 담을 수 있습니다.' or . = 'You need to enable JavaScript to run this app.Huinno Huinno(MA) 박래평 QA Admin님내 계정비밀번호 변경로그아웃Version 2.2.1e401ab81GeneralHR ReviewEvent ReviewBeat Review리포트 생성검토 완료:Recording Time: 2023-02-13, 16:04 ~ 2023-02-16, 15:52AsleepSVQAFPauseOthersPatientCreated with Highcharts 9.3.2bpm50100150200Created with Highcharts 9.3.202-1302-1402-1502-1618:0021:0000:0003:0006:0009:0012:0015:0018:0021:0000:0003:0006:0009:0012:0015:0018:0021:0000:0003:0006:0009:0012:0015:0015:0018:0002-15,06:12:00Created with Highcharts 9.3.202-15,06:12:30Created with Highcharts 9.3.202-15,06:13:00Created with Highcharts 9.3.202-15,06:13:30Created with Highcharts 9.3.202-15,06:14:00Created with Highcharts 9.3.202-15,06:14:30Created with Highcharts 9.3.202-15,06:15:00Created with Highcharts 9.3.202-15,06:15:30Created with Highcharts 9.3.202-15,06:16:00Created with Highcharts 9.3.202-15,06:16:30Created with Highcharts 9.3.202-15,06:17:00Created with Highcharts 9.3.202-15,06:17:30Created with Highcharts 9.3.202-15,06:18:00Created with Highcharts 9.3.202-15,06:18:30Created with Highcharts 9.3.202-15,06:19:00Created with Highcharts 9.3.202-15,06:19:30Created with Highcharts 9.3.202-15,06:20:00Created with Highcharts 9.3.202-15,06:20:30Created with Highcharts 9.3.202-15,06:21:00Created with Highcharts 9.3.202-15,06:21:30Created with Highcharts 9.3.202-15,06:22:00Created with Highcharts 9.3.2EventsReportAF173Ep(s)Pause10Ep(s)VT0Run(s)Iso VPC257Beat(s)Couplet VPC2Beat(s)SVT17Run(s)Iso APC24,355Beat(s)Couplet APC494Beat(s)Others4Event(s)Patient Events0Event(s)AF171of 173(Sort by Duration)정보Range35 bpm - 58 bpmAvg HR53 bpmDuration6.3sOnset23-02-15, 06:17:06보기Term.23-02-15, 06:17:12보기리포트리포트 담기리포트 담기담을 페이지 선택Notable Rhythm Strip1/3 담기 완료AF Detail Page0/20 담기 완료Additional Strip2/50 담기 완료취소다음id(&quot;report-info-wrapper&quot;)/div[@class=&quot;sc-jWaEpP jQAQbU&quot;]30초 이상의 AF 이벤트만 리포트에 담을 수 있습니다.')]</value>
+      <webElementGuid>3653d79f-cf07-485d-8e90-59e093711b13</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
