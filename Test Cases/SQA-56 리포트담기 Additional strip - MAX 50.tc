@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description>Summary: Additional Stirip MAX 50
 Description: </description>
-   <name>SQA-56 Additional Stirip MAX 50</name>
+   <name>SQA-56 리포트담기 Additional strip - MAX 50</name>
    <tag>jira-integration</tag>
    <integratedEntity>
       <productName>JIRA</productName>
