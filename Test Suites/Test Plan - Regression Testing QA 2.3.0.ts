@@ -15,7 +15,7 @@
       <guid>e0142395-0e00-45ef-b5d2-738bb294298d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SQA-56 Additional Stirip MAX 50</testCaseId>
+      <testCaseId>Test Cases/SQA-56 리포트담기 Additional strip - MAX 50</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
