@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_5564de30</name>
+   <tag></tag>
+   <elementGuidId>0bf38d40-6f66-488d-b4c9-00fa0ec3b223</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div[2]/div/div/div/table/tbody/tr[9]/td[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>ea0a934e-e456-4bbb-9ee6-14e4c1691e91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-kTLmzF iyIcCm</value>
+      <webElementGuid>26f55d89-57af-4eae-a112-8bf241088373</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>5564de30</value>
+      <webElementGuid>939cd741-0fa9-470a-864a-9e8b15fcddf2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-jWUzzU dgZbAM&quot;]/div[@class=&quot;sc-eFegNN cGKrit&quot;]/div[@class=&quot;sc-eicpiI hMuCmn&quot;]/div[@class=&quot;sc-ewSTlh jlayFw&quot;]/div[@class=&quot;sc-hkgtus hfQuUA&quot;]/div[@class=&quot;sc-fXeWAj fqNAHO&quot;]/div[@class=&quot;sc-fIosxK fNJGla&quot;]/table[@class=&quot;sc-gyElHZ jvrqvf&quot;]/tbody[@class=&quot;sc-fmciRz fpdIGS&quot;]/tr[@class=&quot;sc-iqVWFU hFmXLF&quot;]/td[@class=&quot;sc-kTLmzF iyIcCm&quot;]</value>
+      <webElementGuid>fc68242a-a781-4d4c-81c4-79dc1a13cbf3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div[2]/div/div/div/table/tbody/tr[9]/td[3]</value>
+      <webElementGuid>f725b15f-81c9-47de-b39a-388fc0d9634b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='일반'])[10]/following::td[2]</value>
+      <webElementGuid>cfab7ca8-6499-47d9-9c38-33c76b1c3103</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='보기'])[8]/following::td[3]</value>
+      <webElementGuid>8ebc38a4-0ddf-4ed7-af47-b4bc54539fea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='박래평 QA Admin'])[4]/preceding::td[5]</value>
+      <webElementGuid>a7b64d82-2c87-4855-b740-21284bc874b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='편집 중'])[7]/preceding::td[6]</value>
+      <webElementGuid>f7a02f22-516a-4beb-a819-fa265d3f68d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='5564de30']/parent::*</value>
+      <webElementGuid>d9a727ab-776e-4494-a395-423fc82e064e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[9]/td[3]</value>
+      <webElementGuid>049f000f-2026-4614-84a6-89dc7b57fcae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '5564de30' or . = '5564de30')]</value>
+      <webElementGuid>e4bb8b0b-707a-4b58-adef-310d66abe0d2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

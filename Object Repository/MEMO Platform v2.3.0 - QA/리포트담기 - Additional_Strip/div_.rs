@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_</name>
+   <tag></tag>
+   <elementGuidId>cdc3b5d5-e33b-4cf2-99c8-3bd2b1dfcea7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sc-hJZKUC.IgONe</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div[2]/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6be66576-f0ab-46b9-89b1-3cfb18df6b24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-hJZKUC IgONe</value>
+      <webElementGuid>a8d17a56-daf6-48af-a53a-b02b4febd677</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>파트너 편집 중</value>
+      <webElementGuid>dc0f7356-9653-462e-a7ad-3ce5f245ddb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-jWUzzU dgZbAM&quot;]/div[@class=&quot;sc-eFegNN cGKrit&quot;]/div[@class=&quot;sc-eicpiI hMuCmn&quot;]/div[@class=&quot;sc-dkqQuH fCSeLT&quot;]/div[@class=&quot;sc-kHxTfl hBIfpx&quot;]/div[@class=&quot;sc-iWBNLc hbCzpl&quot;]/div[@class=&quot;sc-hYQoXb hJsTrO&quot;]/div[@class=&quot;sc-hJZKUC IgONe&quot;]</value>
+      <webElementGuid>fcd429ed-8ea3-4ca8-88f6-91990a3ce0f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div[2]/div/div[2]/div</value>
+      <webElementGuid>50635983-3952-411e-8119-5658c897bfd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='검사 중'])[1]/following::div[2]</value>
+      <webElementGuid>e7c335ff-8311-4a1c-b638-1fcfe7107935</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='검사 목록'])[1]/following::div[6]</value>
+      <webElementGuid>b3502e8f-1975-43f8-a4af-fe3b68b2b018</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='내부 검토 중'])[1]/preceding::div[1]</value>
+      <webElementGuid>b8548b94-dafd-4c1c-9cd8-f4f24a50a033</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='검토 완료'])[1]/preceding::div[3]</value>
+      <webElementGuid>1ec5c963-5fa0-4b55-ba4a-8387b25acca7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='파트너 편집 중']/parent::*</value>
+      <webElementGuid>0251ee41-2a23-4d17-8de7-39f600cb4428</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div[2]/div</value>
+      <webElementGuid>f0813652-6ba7-48a3-95e7-b9c9f2bf0ded</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '파트너 편집 중' or . = '파트너 편집 중')]</value>
+      <webElementGuid>c3045243-8cdb-468d-9b08-bebee96c2d50</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

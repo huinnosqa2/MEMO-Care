@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Mark as not AFShiftANormal beatQS beatW_b9e9f6</name>
+   <tag></tag>
+   <elementGuidId>eb6836da-23ad-459c-ae25-76ffe90681e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sc-iKMXQg.fFTBbG.WrapperCloseArea</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div[2]/div/div/div[2]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d52bff97-dbdb-4b87-b742-ce5a5bf902c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-iKMXQg fFTBbG WrapperCloseArea</value>
+      <webElementGuid>f19b3afc-af59-45dc-877d-34b93270b5c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>선택 구간을 다음으로 편집Mark as not AFShift+ANormal beatQS beatWV beatEQuestionable beatRAFAPauseSOthersD</value>
+      <webElementGuid>048da685-bff5-4559-8b44-2ba3ce047f32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-jWUzzU dgZbAM&quot;]/div[@class=&quot;sc-eFegNN cGKrit&quot;]/div[@class=&quot;sc-eBHJIF jnAICa&quot;]/div[@class=&quot;sc-ewSTlh jlayFw&quot;]/div[@class=&quot;sc-fDMmqs hWPHwC&quot;]/div[@class=&quot;sc-lVTEl elpYdT&quot;]/div[@class=&quot;sc-eSJyHI fbCugD&quot;]/div[@class=&quot;sc-jnrVZQ lmpOfX&quot;]/div[@class=&quot;sc-iKMXQg fFTBbG WrapperCloseArea&quot;]</value>
+      <webElementGuid>81252185-630c-4dda-989c-57de91cf7c22</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div[2]/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>b119dc00-925d-4eb0-95f8-57efdec39fdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created with Highcharts 9.3.2'])[22]/following::div[1]</value>
+      <webElementGuid>210befcd-57e5-429b-9196-dfd446bd87be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created with Highcharts 9.3.2'])[21]/following::div[11]</value>
+      <webElementGuid>47a945b5-ef2a-4c1e-bbba-385fd7301dbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>455f60f5-2491-4d12-8f90-2766adf1304f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '선택 구간을 다음으로 편집Mark as not AFShift+ANormal beatQS beatWV beatEQuestionable beatRAFAPauseSOthersD' or . = '선택 구간을 다음으로 편집Mark as not AFShift+ANormal beatQS beatWV beatEQuestionable beatRAFAPauseSOthersD')]</value>
+      <webElementGuid>33a10c27-b3b8-4aaa-b865-ea35b4c10c33</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

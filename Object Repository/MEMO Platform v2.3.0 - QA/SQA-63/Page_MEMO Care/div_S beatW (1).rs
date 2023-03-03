@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_S beatW (1)</name>
+   <tag></tag>
+   <elementGuidId>9fe2c91c-78f4-4d41-8a0c-1950ab501527</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div/div[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a5ae0c83-c386-4cc4-b9e2-3da13e3dce6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-eGPXGI fBDaEK</value>
+      <webElementGuid>0b19ac73-3782-4743-9560-ba44c5e7ba70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>S beatW</value>
+      <webElementGuid>dd230439-2ffd-45cf-a2ba-c9c84bc37b8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-jWUzzU dgZbAM&quot;]/div[@class=&quot;sc-eFegNN cGKrit&quot;]/div[@class=&quot;sc-eBHJIF jnAICa&quot;]/div[@class=&quot;sc-ewSTlh jlayFw&quot;]/div[@class=&quot;sc-fDMmqs hWPHwC&quot;]/div[@class=&quot;sc-lVTEl elpYdT&quot;]/div[@class=&quot;sc-eSJyHI fbCugD&quot;]/div[@class=&quot;sc-jnrVZQ lmpOfX&quot;]/div[@class=&quot;sc-iKMXQg fFTBbG WrapperCloseArea&quot;]/div[@class=&quot;sc-hIagIn ixDglK&quot;]/div[@class=&quot;sc-eGPXGI fBDaEK&quot;]</value>
+      <webElementGuid>5446bb6a-22c4-485d-8367-4b095ffddefe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div[2]/div/div/div[2]/div/div[2]/div/div[6]</value>
+      <webElementGuid>a118ae82-4adf-4851-a473-e55f1208335d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Q'])[2]/following::div[1]</value>
+      <webElementGuid>a444e3b8-43c1-4eb1-86db-a8e0dffc3782</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Normal beat'])[1]/following::div[2]</value>
+      <webElementGuid>573b80b8-f952-44e6-ab66-ac9e39691fb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[6]</value>
+      <webElementGuid>dbea70c2-cf51-4e8b-a243-2f306d0b999e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'S beatW' or . = 'S beatW')]</value>
+      <webElementGuid>ffb37c23-fb89-485f-98e6-c92fc6badf08</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

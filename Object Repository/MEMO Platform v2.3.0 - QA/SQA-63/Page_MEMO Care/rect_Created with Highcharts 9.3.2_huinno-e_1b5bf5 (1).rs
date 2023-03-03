@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>rect_Created with Highcharts 9.3.2_huinno-e_1b5bf5 (1)</name>
+   <tag></tag>
+   <elementGuidId>90862b9c-650b-4721-964e-410ddb343214</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;highcharts-jivpkqq-131097&quot;)/svg[@class=&quot;highcharts-root&quot;]/g[@class=&quot;huinno-event-marker-group&quot;]/rect[@class=&quot;huinno-event-marker-priority huinno-event-marker-priority-selected huinno-EVENT-TYPE-AF huinno-context-menu-area&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#highcharts-jivpkqq-131097 > svg.highcharts-root > g.huinno-event-marker-group > rect.huinno-event-marker-priority.huinno-event-marker-priority-selected.huinno-EVENT-TYPE-AF.huinno-context-menu-area</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>rect</value>
+      <webElementGuid>134ebc15-c0e5-4ec7-9765-f849552b29aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>x</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>e5f8ca4e-c2d8-454d-af48-8071e1430842</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>y</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>c2d760d4-3850-485e-9c68-a147aab2324a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1570</value>
+      <webElementGuid>a89cee1c-5014-48de-8b48-c041582a6877</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>62</value>
+      <webElementGuid>4a51042c-cfcf-4a3d-a81c-38f073b65fbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>a7ba2a99-9b22-4845-a930-96a92dcc37d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>huinno-event-marker-priority huinno-event-marker-priority-selected huinno-EVENT-TYPE-AF huinno-context-menu-area</value>
+      <webElementGuid>26ff873d-3574-4dbb-879f-b742c007905c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>transform</name>
+      <type>Main</type>
+      <value>translate(1, 17)</value>
+      <webElementGuid>1d88f864-f45b-4e9b-84cb-ca245a02c43e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-z-index</name>
+      <type>Main</type>
+      <value>9</value>
+      <webElementGuid>24265f04-58bf-41ff-922e-724b6f0d6847</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;highcharts-jivpkqq-131097&quot;)/svg[@class=&quot;highcharts-root&quot;]/g[@class=&quot;huinno-event-marker-group&quot;]/rect[@class=&quot;huinno-event-marker-priority huinno-event-marker-priority-selected huinno-EVENT-TYPE-AF huinno-context-menu-area&quot;]</value>
+      <webElementGuid>d2ab81e8-f913-4cd4-a04c-f095601b4c4d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

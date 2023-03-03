@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_V beatE</name>
+   <tag></tag>
+   <elementGuidId>ea01ab68-dde3-4fb0-8a27-6723bb5b6c98</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div[2]/div/div/div[2]/div/div[2]/div/div[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>aab30e5b-357e-495f-b781-f8ad11a6a48d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-eGPXGI fBDaEK</value>
+      <webElementGuid>7dd20886-6c95-497c-8b9d-505bd65072f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>V beatE</value>
+      <webElementGuid>0a3ed5bb-246c-4964-89d9-cdf900821a29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-jWUzzU dgZbAM&quot;]/div[@class=&quot;sc-eFegNN cGKrit&quot;]/div[@class=&quot;sc-eBHJIF jnAICa&quot;]/div[@class=&quot;sc-ewSTlh jlayFw&quot;]/div[@class=&quot;sc-fDMmqs hWPHwC&quot;]/div[@class=&quot;sc-lVTEl elpYdT&quot;]/div[@class=&quot;sc-eSJyHI fbCugD&quot;]/div[@class=&quot;sc-jnrVZQ lmpOfX&quot;]/div[@class=&quot;sc-iKMXQg fFTBbG WrapperCloseArea&quot;]/div[@class=&quot;sc-hIagIn lmhEMm&quot;]/div[@class=&quot;sc-eGPXGI fBDaEK&quot;]</value>
+      <webElementGuid>e60de338-8ee2-498e-bdf8-69d002661da4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div[2]/div/div/div[2]/div/div[2]/div/div[7]</value>
+      <webElementGuid>e29b6013-ff23-4319-9a45-15f1b1ca22af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='W'])[1]/following::div[1]</value>
+      <webElementGuid>1e25d591-57c0-4270-9a72-afd9ff60dbdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S beat'])[1]/following::div[2]</value>
+      <webElementGuid>e09d190e-df8d-43a7-a0ee-066700c87af1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[7]</value>
+      <webElementGuid>3026e1f1-0ddb-4159-884f-bc9e113159ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'V beatE' or . = 'V beatE')]</value>
+      <webElementGuid>a56159a6-c472-4fc5-959c-2a3a161076eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

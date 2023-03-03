@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: [+리포트 담기] 노출되는 말풍선 비노출 처리
+Description: </description>
+   <name>SQA-58</name>
+   <tag>jira-integration</tag>
+   <integratedEntity>
+      <productName>JIRA</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;jiraIssue&quot;:{&quot;fields&quot;:{&quot;customFields&quot;:{&quot;customfield_10077&quot;:&quot;확인 테스트\n리그레이션 테스트&quot;,&quot;customfield_10064&quot;:[],&quot;customfield_10018&quot;:{&quot;hasEpicLinkFieldDependency&quot;:true,&quot;showField&quot;:true,&quot;nonEditableReason&quot;:{&quot;reason&quot;:&quot;PLUGIN_LICENSE_ERROR&quot;,&quot;message&quot;:&quot;상위 링크는 Jira Premium 사용자만 이용할 수 있습니다.&quot;}},&quot;customfield_10019&quot;:&quot;0|i004dz:&quot;,&quot;customfield_10040&quot;:{&quot;self&quot;:&quot;https://huinno.atlassian.net/rest/api/2/user?accountId\u003d5ee72443b364ce0abe4d3781&quot;,&quot;accountId&quot;:&quot;5ee72443b364ce0abe4d3781&quot;,&quot;avatarUrls&quot;:{&quot;48x48&quot;:&quot;https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5ee72443b364ce0abe4d3781/cfe21492-8ad5-4463-a41c-3b2ffa926401/48&quot;,&quot;24x24&quot;:&quot;https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5ee72443b364ce0abe4d3781/cfe21492-8ad5-4463-a41c-3b2ffa926401/24&quot;,&quot;16x16&quot;:&quot;https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5ee72443b364ce0abe4d3781/cfe21492-8ad5-4463-a41c-3b2ffa926401/16&quot;,&quot;32x32&quot;:&quot;https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5ee72443b364ce0abe4d3781/cfe21492-8ad5-4463-a41c-3b2ffa926401/32&quot;},&quot;displayName&quot;:&quot;박래평&quot;,&quot;active&quot;:true,&quot;timeZone&quot;:&quot;Asia/Seoul&quot;,&quot;accountType&quot;:&quot;atlassian&quot;},&quot;customfield_10000&quot;:&quot;{}&quot;,&quot;customfield_10047&quot;:[]},&quot;status&quot;:{&quot;id&quot;:1,&quot;description&quot;:&quot;이슈가 생성되었고 Assign 대기중입니다.&quot;,&quot;iconUrl&quot;:&quot;https://huinno.atlassian.net/images/icons/statuses/open.png&quot;,&quot;self&quot;:&quot;https://huinno.atlassian.net/rest/api/2/status/1&quot;,&quot;name&quot;:&quot;N/A&quot;},&quot;project&quot;:{&quot;self&quot;:&quot;https://huinno.atlassian.net/rest/api/2/project/10003&quot;,&quot;key&quot;:&quot;SQA&quot;,&quot;id&quot;:10003,&quot;name&quot;:&quot;SQA&quot;},&quot;components&quot;:[{&quot;id&quot;:10055,&quot;self&quot;:&quot;https://huinno.atlassian.net/rest/api/2/component/10055&quot;,&quot;name&quot;:&quot;MEMO Care&quot;}],&quot;summary&quot;:&quot;[+리포트 담기] 노출되는 말풍선 비노출 처리&quot;,&quot;reporter&quot;:{&quot;emailAddress&quot;:&quot;sangyhyeon.park@huinno.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;박상현&quot;,&quot;self&quot;:&quot;https://huinno.atlassian.net/rest/api/2/user?accountId\u003d6396bebcf7f0ee492fce5465&quot;},&quot;assignee&quot;:{&quot;emailAddress&quot;:&quot;sangyhyeon.park@huinno.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;박상현&quot;,&quot;self&quot;:&quot;https://huinno.atlassian.net/rest/api/2/user?accountId\u003d6396bebcf7f0ee492fce5465&quot;},&quot;priority&quot;:{&quot;id&quot;:2,&quot;self&quot;:&quot;https://huinno.atlassian.net/rest/api/2/priority/2&quot;,&quot;name&quot;:&quot;P1&quot;},&quot;votes&quot;:{&quot;self&quot;:&quot;https://huinno.atlassian.net/rest/api/2/issue/SQA-58/votes&quot;,&quot;votes&quot;:0,&quot;hasVoted&quot;:false},&quot;fixVersions&quot;:[],&quot;subtasks&quot;:[],&quot;labels&quot;:[]},&quot;self&quot;:&quot;https://huinno.atlassian.net/rest/api/2/issue/11282&quot;,&quot;key&quot;:&quot;SQA-58&quot;,&quot;id&quot;:11282}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <testCaseGuid>45bba127-0656-46d5-9bb1-5ab48a37d55f</testCaseGuid>
+</TestCaseEntity>

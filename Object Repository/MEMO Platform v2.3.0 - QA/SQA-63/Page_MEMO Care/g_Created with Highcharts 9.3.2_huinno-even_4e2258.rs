@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>g_Created with Highcharts 9.3.2_huinno-even_4e2258</name>
+   <tag></tag>
+   <elementGuidId>1ff64eff-1d53-49c3-af26-060a6812cf82</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#highcharts-jivpkqq-131097 > svg.highcharts-root > g.huinno-event-marker-group</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>g</value>
+      <webElementGuid>448e2a55-5a15-4a83-964b-251eacae7550</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>huinno-event-marker-group</value>
+      <webElementGuid>ed47e503-4f8b-4895-b75c-3efab54ec35a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-z-index</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>35a9afa3-d9c3-418f-bcca-35e00a9f6d2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;highcharts-jivpkqq-131097&quot;)/svg[@class=&quot;highcharts-root&quot;]/g[@class=&quot;huinno-event-marker-group&quot;]</value>
+      <webElementGuid>9582a211-efed-49aa-b87a-9f1e21d907fa</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

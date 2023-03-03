@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AF20Ep(s)</name>
+   <tag></tag>
+   <elementGuidId>0ff2b085-073c-46cf-81a2-dc4495680bcb</elementGuidId>
+   <imagePath>Screenshots/Targets/Object Repository/SQA-64/Page_MEMO Care/div_AF20Ep(s).png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sc-ezHhwS.gmbBW</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Object Repository/SQA-64/Page_MEMO Care/div_AF20Ep(s).png</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div[2]/div/div[2]/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ffa308c7-952d-46ef-ae34-1fa107803e2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-ezHhwS gmbBW</value>
+      <webElementGuid>0dfe5056-cb1d-4b73-8df0-5882d2ec5a50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AF20Ep(s)</value>
+      <webElementGuid>c2d276d2-dbbe-471b-8889-4eb221b7f849</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-jWUzzU dgZbAM&quot;]/div[@class=&quot;sc-eFegNN cGKrit&quot;]/div[@class=&quot;sc-kMyqmI iPSAWW&quot;]/div[@class=&quot;sc-dUbtfd jfyZaM&quot;]/div[@class=&quot;sc-jwQYvw krqfKW&quot;]/div[@class=&quot;sc-juEPzu bRPFz&quot;]/div[@class=&quot;sc-dMOJrz GvDwq&quot;]/div[@class=&quot;sc-fIITEw jgRMlC&quot;]/div[@class=&quot;sc-cQMzAB eMEvEG&quot;]/div[@class=&quot;sc-ezHhwS gmbBW&quot;]</value>
+      <webElementGuid>e5d1758f-cdda-4371-8398-7fedd3d0dd88</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div[2]/div/div[2]/div/div[2]/div/div</value>
+      <webElementGuid>02fe58c8-70ea-447c-9ba7-337e1881aa3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report'])[1]/following::div[3]</value>
+      <webElementGuid>a30f6072-2ac0-4723-abc8-3991570bf012</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Events'])[1]/following::div[5]</value>
+      <webElementGuid>c149b50b-c84e-48df-bfd0-3cddd5bd1955</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div[2]/div/div[2]/div/div</value>
+      <webElementGuid>68799e01-024d-44fa-89bd-882fab5e6ad7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'AF20Ep(s)' or . = 'AF20Ep(s)')]</value>
+      <webElementGuid>9c7c0493-bcbb-4b99-80e5-7e85f337fe54</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

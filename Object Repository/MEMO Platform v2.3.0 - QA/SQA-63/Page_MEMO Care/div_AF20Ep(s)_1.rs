@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AF20Ep(s)_1</name>
+   <tag></tag>
+   <elementGuidId>5f4b1ad5-c38e-4b85-87ee-44275c585465</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sc-ezHhwS.gmbBW</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div[2]/div/div[2]/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5996337f-908e-4458-8558-f9ec9be8888d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-ezHhwS gmbBW</value>
+      <webElementGuid>4517c31d-b435-47a2-b14a-d7a1041462fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AF20Ep(s)</value>
+      <webElementGuid>34d60bc0-0299-49a0-a632-6e18bbbba7d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-jWUzzU dgZbAM&quot;]/div[@class=&quot;sc-eFegNN cGKrit&quot;]/div[@class=&quot;sc-kMyqmI iPSAWW&quot;]/div[@class=&quot;sc-dUbtfd jfyZaM&quot;]/div[@class=&quot;sc-jwQYvw krqfKW&quot;]/div[@class=&quot;sc-juEPzu bRPFz&quot;]/div[@class=&quot;sc-dMOJrz GvDwq&quot;]/div[@class=&quot;sc-fIITEw jgRMlC&quot;]/div[@class=&quot;sc-cQMzAB eMEvEG&quot;]/div[@class=&quot;sc-ezHhwS gmbBW&quot;]</value>
+      <webElementGuid>3bf3433a-9e84-432b-a097-e06a33999b2d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div[2]/div/div[2]/div/div[2]/div/div</value>
+      <webElementGuid>524b19fb-b71c-4d39-bd87-429b7b2a0ff8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report'])[1]/following::div[3]</value>
+      <webElementGuid>884003a7-2783-47aa-8387-fa0d5129cb5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Events'])[1]/following::div[5]</value>
+      <webElementGuid>54ed4277-7c19-4fc5-8422-9bad9a565ec7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div[2]/div/div[2]/div/div</value>
+      <webElementGuid>06f84fcb-91c9-4ec1-bbb9-3f49839ba818</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'AF20Ep(s)' or . = 'AF20Ep(s)')]</value>
+      <webElementGuid>d70f1578-fdbc-4812-bcf2-ba368b1cb9c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
