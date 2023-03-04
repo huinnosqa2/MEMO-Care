@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Overall HRMax HR250 bpmAvg HR75 bpmMin HR6 bpm</name>
+   <tag></tag>
+   <elementGuidId>fde41594-ac94-47f9-9c65-33ed67a1fa4c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div[2]/div/div[2]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sc-fkJVfC.SXpmt</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ffeec498-aa64-4cea-ba42-984aed5c51b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-fkJVfC SXpmt</value>
+      <webElementGuid>60a71b46-f2ec-4bce-bb74-7fd12d259804</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Overall HRMax HR250 bpm보기Avg HR75 bpm보기Min HR6 bpm보기</value>
+      <webElementGuid>eb8b18ae-3560-4bd7-9151-e086fe1ed4f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-jWUzzU dgZbAM&quot;]/div[@class=&quot;sc-eFegNN cGKrit&quot;]/div[@class=&quot;sc-eBHJIF jnAICa&quot;]/div[@class=&quot;sc-ewSTlh jlayFw&quot;]/div[@class=&quot;sc-emDsmM fZVbx&quot;]/div[@class=&quot;sc-ekrjqK eeWkHX&quot;]/div[@class=&quot;sc-jftFmt daeLlX&quot;]/div[@class=&quot;sc-fkJVfC SXpmt&quot;]</value>
+      <webElementGuid>9b89785a-b5d2-417e-8abb-2ab8b193438c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div[2]/div/div[2]/div/div[2]</value>
+      <webElementGuid>001d48e9-f52d-4f73-9ca0-98c25798703c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Heart Rate Histogram'])[1]/following::div[1]</value>
+      <webElementGuid>5acf0a29-34f8-49fd-adb1-a168ac6b3898</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='V'])[6]/following::div[5]</value>
+      <webElementGuid>0882429c-07f5-438e-8101-3bb7b5a6d837</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div[2]/div/div[2]</value>
+      <webElementGuid>53e74fbc-57ce-4f88-8b70-c2e3373b31e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Overall HRMax HR250 bpm보기Avg HR75 bpm보기Min HR6 bpm보기' or . = 'Overall HRMax HR250 bpm보기Avg HR75 bpm보기Min HR6 bpm보기')]</value>
+      <webElementGuid>597a8c18-bb05-484b-928e-d3776afa2403</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

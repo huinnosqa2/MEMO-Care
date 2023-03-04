@@ -17,14 +17,18 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+try {
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://partner-qa.memopatch.care/login')
 
-WebUI.setText(findTestObject('Object Repository/MEMO Platform v2.3.0 - QA/login page - qa partner/Page_MEMO Care/input__sc-ieecCq icKGXT'), 'sangyhyeon.park+qa2@huinno.com')
+WebUI.setText(findTestObject('Object Repository/MEMO Platform v2.3.0 - QA/login page - qa partner/Page_MEMO Care/input__sc-ieecCq icKGXT'), 
+    email)
 
 WebUI.setEncryptedText(findTestObject('Object Repository/MEMO Platform v2.3.0 - QA/login page - qa partner/Page_MEMO Care/input__sc-ieecCq icKGXT_1'), 
-    'cEOMZvZqOl6PAhz06GQ+Fw==')
+    password)
 
 WebUI.click(findTestObject('Object Repository/MEMO Platform v2.3.0 - QA/login page - qa partner/Page_MEMO Care/div_'))
-
+} catch(e) {
+	
+}

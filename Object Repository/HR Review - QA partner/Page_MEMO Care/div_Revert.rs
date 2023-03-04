@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Revert</name>
+   <tag></tag>
+   <elementGuidId>a77a9aa3-3f18-4dcc-ae43-a923ff80259f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div[2]/div/div/div/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sc-jeraig.chWwhn > div.sc-hiwPVj.frZFbt</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d6afec4c-2de6-4117-a69f-707747e880e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-hiwPVj frZFbt</value>
+      <webElementGuid>7a39fbb1-b870-40f0-b6a1-f072d3244878</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Revert</value>
+      <webElementGuid>9bdf8e8c-f0c0-4145-be4f-5df3929ce8d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-jWUzzU dgZbAM&quot;]/div[@class=&quot;sc-eFegNN cGKrit&quot;]/div[@class=&quot;sc-eBHJIF jnAICa&quot;]/div[@class=&quot;sc-ewSTlh jlayFw&quot;]/div[@class=&quot;sc-emDsmM fZVbx&quot;]/div[@class=&quot;sc-bvFjSx gnjJaT&quot;]/div[@class=&quot;sc-bttaWv dWnHuN&quot;]/div[@class=&quot;sc-fTQvRK jIKLRW&quot;]/div[@class=&quot;sc-bUhFKy hVcqeF&quot;]/div[@class=&quot;sc-jeraig chWwhn&quot;]/div[@class=&quot;sc-hiwPVj frZFbt&quot;]</value>
+      <webElementGuid>3389778a-f0f1-4bbf-b1b5-742ee644a946</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div[2]/div/div/div/div/div/div/div[2]</value>
+      <webElementGuid>45c759c1-5da2-4756-8b0e-5c45dc41d2dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='검토 완료'])[1]/following::div[9]</value>
+      <webElementGuid>c415afdd-d086-48af-9fa8-d9750729a584</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='리포트 생성'])[1]/following::div[11]</value>
+      <webElementGuid>8cc207f4-8fa2-4be2-986d-3aee792afa6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recording Time: 2023-02-22, 14:25 ~ 2023-03-01, 14:25'])[1]/preceding::div[2]</value>
+      <webElementGuid>92826bf6-beea-44eb-9651-ca4932095673</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created with Highcharts 9.3.2'])[1]/preceding::div[3]</value>
+      <webElementGuid>57a735ed-e04d-4210-9a87-c909b22d3eaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Revert']/parent::*</value>
+      <webElementGuid>056d55c6-7d89-4e8a-93eb-c38d5f18d60d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div/div/div/div/div[2]</value>
+      <webElementGuid>09153b00-f686-4ae3-8321-00cb4c3beea9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Revert' or . = 'Revert')]</value>
+      <webElementGuid>bd765fe7-4be9-43de-99f6-29863cee8b12</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

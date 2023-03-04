@@ -19,5 +19,5 @@ import org.openqa.selenium.Keys as Keys
 
 CucumberKW.runFeatureFile('Include/features/SQA-65    Context Menu.feature')
 
-Windows.callTestCase(findTestCase('MEMO Platform v2.3.0 - QA/login page - qa partner'), [:], FailureHandling.STOP_ON_FAILURE)
+Windows.callTestCase(findTestCase('login page - qa partner'), [:], FailureHandling.STOP_ON_FAILURE)
 

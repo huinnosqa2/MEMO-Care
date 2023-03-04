@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_4efdf310</name>
+   <tag></tag>
+   <elementGuidId>5468e27b-5a34-442a-afb3-6168a7ef6154</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sc-fpYaaq.bPKaJR</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>43444ea0-eeb8-45d3-a22a-a2b998071599</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-fpYaaq bPKaJR</value>
+      <webElementGuid>904eb0b1-5635-4959-b716-62146f76465f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>4efdf310</value>
+      <webElementGuid>c4ea1a4a-5af3-4fb0-ab34-a82190896e83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-jWUzzU dgZbAM&quot;]/div[@class=&quot;sc-eFegNN cGKrit&quot;]/div[@class=&quot;sc-eBHJIF jnAICa&quot;]/div[@class=&quot;sc-kexyCK jCyMkA&quot;]/div[@class=&quot;sc-eMHfQD jSyEcW&quot;]/div[@class=&quot;sc-fpYaaq bPKaJR&quot;]</value>
+      <webElementGuid>afe835bd-bce2-4bef-9999-bf33b66f47f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div/div</value>
+      <webElementGuid>6f7f6bab-0e42-4a9a-94e1-96aeff504181</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Version 2.2.1'])[1]/following::div[5]</value>
+      <webElementGuid>54f566ea-91d9-46d8-a80e-776577bc8262</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='로그아웃'])[1]/following::div[7]</value>
+      <webElementGuid>dc0bb499-4a79-4c20-a997-9de81d48a844</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='General'])[1]/preceding::div[1]</value>
+      <webElementGuid>7f642d55-1604-47ca-986f-c0944b2534aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HR Review'])[1]/preceding::div[3]</value>
+      <webElementGuid>74b8feee-f69f-4c5e-b52b-c1120589990c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='4efdf310']/parent::*</value>
+      <webElementGuid>7d2ef2d2-97b8-4833-8f56-91898863e76c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div</value>
+      <webElementGuid>5ec0bb6b-0bec-4180-afc2-b4e8bd97c5ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '4efdf310' or . = '4efdf310')]</value>
+      <webElementGuid>a86797d1-cd84-4e0f-bc33-9a53f4992377</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

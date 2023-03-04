@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>login page - qa partner</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1bc74890-f64d-43c0-974b-8c7cc9017006</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>97c3aa2d-2833-4c48-98e6-8940c2861dad</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/MEMO Platform v2.3.0 - QA</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>97c3aa2d-2833-4c48-98e6-8940c2861dad</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>email</value>
+      <variableId>4699f939-5dd9-4b41-ab93-84c429efda37</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>97c3aa2d-2833-4c48-98e6-8940c2861dad</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>b2c0961f-5b61-4166-94d5-2aa04a6d41ca</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4699f939-5dd9-4b41-ab93-84c429efda37</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b2c0961f-5b61-4166-94d5-2aa04a6d41ca</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

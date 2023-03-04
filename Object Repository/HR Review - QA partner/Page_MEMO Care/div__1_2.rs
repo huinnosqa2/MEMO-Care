@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__1_2</name>
+   <tag></tag>
+   <elementGuidId>65b9f8e2-ed2a-46f3-83ad-3f0eca00bbf3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sc-jrQzAO.hvXBQm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>63579da5-0edd-44ef-a5de-f762213a0955</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-jrQzAO hvXBQm</value>
+      <webElementGuid>5d843f9b-5ad4-49cd-96b8-a9f7249a4506</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>이벤트를 담지 않은 리포트 페이지가 있습니다.</value>
+      <webElementGuid>c8c01570-33a0-4a20-9df2-d0bdb66490f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-bdvvtL fczaap&quot;]/div[@class=&quot;sc-gsDKAQ lZxQq&quot;]/div[@class=&quot;sc-jrQzAO hvXBQm&quot;]</value>
+      <webElementGuid>ae96e0d5-6324-4d77-9ee0-be9a5abc6684</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div</value>
+      <webElementGuid>0e3b586d-8139-4866-a7bd-f713b66c8025</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Set Min'])[1]/following::div[3]</value>
+      <webElementGuid>cc007910-bd16-49a5-bf2c-34635c0ba9fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Set Max'])[1]/following::div[6]</value>
+      <webElementGuid>9bc011bb-4622-4740-bf35-268e64662be4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='각 클래스 마다 최소 1개 이상의 이벤트를 담아야 리포트를 생성할 수 있습니다.'])[1]/preceding::div[1]</value>
+      <webElementGuid>8c83c7b7-d5b9-4dde-b2d2-dae23c5fd53d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='확인'])[1]/preceding::div[2]</value>
+      <webElementGuid>7d748ec3-e0e6-448d-8f54-28c7008b9c31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='이벤트를 담지 않은 리포트 페이지가 있습니다.']/parent::*</value>
+      <webElementGuid>70bf7339-db1e-4e09-9c19-6dd641aae20d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div</value>
+      <webElementGuid>e852e25f-fcf5-4623-9e83-19cdd585c0fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '이벤트를 담지 않은 리포트 페이지가 있습니다.' or . = '이벤트를 담지 않은 리포트 페이지가 있습니다.')]</value>
+      <webElementGuid>0cc1da3e-1e8f-4dd1-8daf-2a4453362614</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Windows.callTestCase(findTestCase('MEMO Platform v2.3.0 - QA/login page - qa partner'), [:], FailureHandling.STOP_ON_FAILURE)
+Windows.callTestCase(findTestCase('login page - qa partner'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/MEMO Platform v2.3.0 - QA/SQA-63/Page_MEMO Care/div__1 (1) (1) (1)'))
 

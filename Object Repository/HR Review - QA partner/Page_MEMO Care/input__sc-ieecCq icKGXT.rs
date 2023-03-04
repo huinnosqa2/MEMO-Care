@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input__sc-ieecCq icKGXT_1</name>
+   <name>input__sc-ieecCq icKGXT</name>
    <tag></tag>
-   <elementGuidId>5379d53f-fc17-49b7-9e6d-8f6be925fd3f</elementGuidId>
+   <elementGuidId>95938853-1239-4fde-8e8f-0f7898d0d1b9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'password']</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/div/div/div/div/div[3]/div[2]/div/input</value>
+         <value>//input[@value='san']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>div.sc-bkkeKt.bXjQif > input.sc-ieecCq.icKGXT</value>
+         <value>input.sc-ieecCq.icKGXT</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -26,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>22f78d05-f1f6-4e63-af4b-e8d8289f08c8</webElementGuid>
+      <webElementGuid>19f5fe97-96bb-4c67-9eb3-a2ce894ca02e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>74b52073-2f48-43d2-9ff6-05096b252cb7</webElementGuid>
+      <value>email</value>
+      <webElementGuid>10a83baa-0f77-4aec-9534-da4557fb5c8b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,54 +38,54 @@
       <name>class</name>
       <type>Main</type>
       <value>sc-ieecCq icKGXT</value>
-      <webElementGuid>793a7511-ac4a-4d14-9547-0ffa536c98b6</webElementGuid>
+      <webElementGuid>d5a63902-f7c2-4067-be4c-323f863080dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>@</value>
-      <webElementGuid>7dbfd478-48a4-40cb-889b-98c6a641f08d</webElementGuid>
+      <value>san</value>
+      <webElementGuid>a447adee-efac-410a-a59e-f735075aeb41</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;sc-eGRUor cOTRZE&quot;]/div[@class=&quot;sc-ctqQKy efYUQn&quot;]/div[@class=&quot;sc-fmBCVi kagCfw&quot;]/div[@class=&quot;sc-lkgTHX ifsjJA&quot;]/div[@class=&quot;sc-cbTzjv gyJFdX&quot;]/div[@class=&quot;sc-fotOHu gBAKDM&quot;]/div[@class=&quot;sc-bkkeKt bXjQif&quot;]/input[@class=&quot;sc-ieecCq icKGXT&quot;]</value>
-      <webElementGuid>241849e6-7a9f-4308-895d-271835fc651e</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-eGRUor cOTRZE&quot;]/div[@class=&quot;sc-ctqQKy efYUQn&quot;]/div[@class=&quot;sc-fmBCVi kagCfw&quot;]/div[@class=&quot;sc-lkgTHX ifsjJA&quot;]/div[@class=&quot;sc-cbTzjv gyJFdX&quot;]/div[@class=&quot;sc-fotOHu gBAKDM&quot;]/div[@class=&quot;sc-bkkeKt jiEqDn&quot;]/input[@class=&quot;sc-ieecCq icKGXT&quot;]</value>
+      <webElementGuid>96768ba1-cb4d-4d54-b6d5-778283efc9a9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@type = '@']</value>
-      <webElementGuid>57217dd3-564a-4fa5-bed4-b7636faf70ea</webElementGuid>
+      <value>//input[@value='san']</value>
+      <webElementGuid>5369967b-ab32-41f2-b742-8186f22a26ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div/div/div/div/div[3]/div[2]/div/input</value>
-      <webElementGuid>dc0eaff7-050e-447e-bf20-7068fc2a02d9</webElementGuid>
+      <value>//div[@id='root']/div/div/div/div/div[3]/div/div/input</value>
+      <webElementGuid>16d0f49d-5085-450d-baa8-90fa692033f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/input</value>
-      <webElementGuid>a69cff34-501e-4d29-9af0-d87c2f319aa0</webElementGuid>
+      <value>//input</value>
+      <webElementGuid>00e9bf51-1ace-4886-bf55-43404d5817a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'password']</value>
-      <webElementGuid>facf3ff3-f9a4-4e63-9f61-0100f58151b0</webElementGuid>
+      <value>//input[@type = 'email']</value>
+      <webElementGuid>f71e5e74-e6b5-4fc4-bff9-a19bb24fa361</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

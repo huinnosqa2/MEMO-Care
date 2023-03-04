@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 CucumberKW.runFeatureFile('Include/features/SQA-58 3.feature')
 
-Windows.callTestCase(findTestCase('MEMO Platform v2.3.0 - QA/login page - qa partner'), [:], FailureHandling.STOP_ON_FAILURE)
+Windows.callTestCase(findTestCase('login page - qa partner'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/MEMO Platform v2.3.0 - QA/말풍선 비노출확인/Page_MEMO Care/div__1 (1)'))
 

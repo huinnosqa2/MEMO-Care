@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Prev BeatNext BeatLower HRHigher HRSet _9c54bb</name>
+   <tag></tag>
+   <elementGuidId>90fa9784-05e1-4aea-a588-b7ded63f2779</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div[2]/div/div[2]/div/div[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sc-fGoOlv.dfnGou</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1ed9801a-11b6-438f-8ac1-efaaa1c627e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-fGoOlv dfnGou</value>
+      <webElementGuid>2a909997-c09e-4752-9fab-222fb63d68b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Prev BeatNext BeatLower HRHigher HRSet MaxSet Min</value>
+      <webElementGuid>8418dd57-32f4-46c4-90e0-d893cf8ab774</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-jWUzzU dgZbAM&quot;]/div[@class=&quot;sc-eFegNN cGKrit&quot;]/div[@class=&quot;sc-eBHJIF jnAICa&quot;]/div[@class=&quot;sc-ewSTlh jlayFw&quot;]/div[@class=&quot;sc-emDsmM fZVbx&quot;]/div[@class=&quot;sc-ekrjqK eeWkHX&quot;]/div[@class=&quot;sc-jftFmt daeLlX&quot;]/div[@class=&quot;sc-fGoOlv dfnGou&quot;]</value>
+      <webElementGuid>209641fd-7277-4e17-bf38-6198fac1f0b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div[2]/div/div[2]/div/div[5]</value>
+      <webElementGuid>df92aaeb-292f-473c-bad1-502a712b5b29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Sort by Time)'])[1]/following::div[1]</value>
+      <webElementGuid>a49de444-1948-408e-b1df-b66e21b5a4fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='of 1'])[1]/following::div[2]</value>
+      <webElementGuid>fd10e093-e198-40c5-8829-a1c7f79bb447</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div[5]</value>
+      <webElementGuid>24ff42ba-dcff-4f56-93ce-ef9512656eef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Prev BeatNext BeatLower HRHigher HRSet MaxSet Min' or . = 'Prev BeatNext BeatLower HRHigher HRSet MaxSet Min')]</value>
+      <webElementGuid>0faa1e33-56ac-4874-9a1b-bcb0b5d05fb4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

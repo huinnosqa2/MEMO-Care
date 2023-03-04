@@ -10,26 +10,24 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>bae43b5e-109d-4f95-ad1f-1a32510b3873</testSuiteGuid>
+   <testSuiteGuid>989c7ef3-4a7f-46da-b77b-6ab2626df550</testSuiteGuid>
    <testCaseLink>
-      <guid>e0142395-0e00-45ef-b5d2-738bb294298d</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
-      <testCaseId>Test Cases/MEMO Platform v2.3.0 - QA/SQA-56 리포트담기 Additional strip - MAX 50</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>c66fef85-61b6-487e-959b-2151b61ea4df</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
-      <testCaseId>Test Cases/MEMO Platform v2.3.0 - QA/SQA-58</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>6bcc2bbe-20d2-42d3-9e33-fd235f2e588c</guid>
+      <guid>19e9e7e5-f3a7-4057-9539-fb3e49cc131e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/MEMO Platform v2.3.0 - QA/SQA-63 FE  AF     SVT Normal beat</testCaseId>
+      <testCaseId>Test Cases/login page - qa partner</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>4699f939-5dd9-4b41-ab93-84c429efda37</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b2c0961f-5b61-4166-94d5-2aa04a6d41ca</variableId>
+      </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__1</name>
+   <tag></tag>
+   <elementGuidId>c6179910-057d-4988-a970-133bf7158116</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div[3]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sc-hiwPVj.frZFbt</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bab78a8e-6a2f-4b27-b0b5-5ad0ccdefde0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-hiwPVj frZFbt</value>
+      <webElementGuid>192a8c08-a50c-4192-8538-5736245b0784</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>리포트 생성</value>
+      <webElementGuid>7698794d-88bf-452a-af84-bfd04d14266f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-jWUzzU dgZbAM&quot;]/div[@class=&quot;sc-eFegNN cGKrit&quot;]/div[@class=&quot;sc-eBHJIF jnAICa&quot;]/div[@class=&quot;sc-kexyCK jCyMkA&quot;]/div[@class=&quot;sc-lcDUFh cltoYs&quot;]/div[@class=&quot;sc-jeraig eOMWoH&quot;]/div[@class=&quot;sc-hiwPVj frZFbt&quot;]</value>
+      <webElementGuid>a373287b-aa58-4c26-824d-6cac12c98219</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div[3]/div/div</value>
+      <webElementGuid>e5e0bc52-1f0d-47b9-b134-a33b7209bc0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beat Review'])[1]/following::div[3]</value>
+      <webElementGuid>b5adeec2-9273-49ec-ac4f-cbe1097d73bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Event Review'])[1]/following::div[5]</value>
+      <webElementGuid>1961cb3f-89e1-45cd-a7a1-0fbc9f2fed12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='검토 완료'])[1]/preceding::div[1]</value>
+      <webElementGuid>b7a7778d-f246-4519-9c0d-e5d8cf7c7c0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Revert'])[1]/preceding::div[4]</value>
+      <webElementGuid>e20152fe-2f6d-43c2-a46c-d14249203b1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='리포트 생성']/parent::*</value>
+      <webElementGuid>c0a7e9a3-d1e3-497c-b822-bb275ca13f0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div</value>
+      <webElementGuid>3df14452-94a4-4730-aa5b-20e528853d50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '리포트 생성' or . = '리포트 생성')]</value>
+      <webElementGuid>ed39ee0d-9e3c-4dbd-9780-8e228aa03366</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

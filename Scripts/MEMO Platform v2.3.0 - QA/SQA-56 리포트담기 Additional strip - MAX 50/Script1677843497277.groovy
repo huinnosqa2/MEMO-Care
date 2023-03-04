@@ -22,7 +22,7 @@ import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
 
 CucumberKW.runFeatureFile('Include/features/SQA-56 Additional Stirip MAX 50.feature')
 
-Windows.callTestCase(findTestCase('MEMO Platform v2.3.0 - QA/login page - qa partner'), [:], FailureHandling.STOP_ON_FAILURE)
+Windows.callTestCase(findTestCase('login page - qa partner'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/MEMO Platform v2.3.0 - QA/리포트담기 - Additional_Strip/div_'))
 
