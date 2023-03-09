@@ -27,48 +27,67 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://partner-qa.memopatch.care/login')
 
-WebUI.setText(findTestObject('Object Repository/test/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/input__sc-ieecCq icKGXT'), 
+WebUI.setText(findTestObject('Object Repository/test/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/input__sc-ieecCq icKGXT'), 
     'sangyhyeon.park+qa2@huinno.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/test/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/input__sc-ieecCq icKGXT_1'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/test/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/input__sc-ieecCq icKGXT_1'), 
     'MSZn4fS/R/qEuowV0kSsuQ==')
 
-WebUI.sendKeys(findTestObject('Object Repository/test/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/input__sc-ieecCq icKGXT_1'), 
+WebUI.sendKeys(findTestObject('Object Repository/test/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/input__sc-ieecCq icKGXT_1'), 
     Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/test/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/div__1'))
+WebUI.click(findTestObject('Object Repository/test/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/div__1'))
 
-WebUI.click(findTestObject('Object Repository/test/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/td_11e6e389'))
+WebUI.click(findTestObject('Object Repository/test/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/td_11e6e389'))
 
-WebUI.click(findTestObject('Object Repository/test/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/div_Event Review'))
+WebUI.click(findTestObject('Object Repository/test/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/div_Event Review'))
 
-WebUI.click(findTestObject('Object Repository/test/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/div_141400'))
-WebUI.click(findTestObject('Object Repository/test/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/div_SVT'))
+WebUI.click(findTestObject('Object Repository/test/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/div_141500'))
+
+//WebUI.click(findTestObject('Object Repository/test/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/div_VT'))
 
 WebDriver driver = DriverFactory.getWebDriver()
 
 Actions builder = new Actions(driver)
 
-WebElement sourceElement = WebUiCommonHelper.findWebElement(findTestObject('Object Repository/test/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/div_141400'), 
+WebElement sourceElement = WebUiCommonHelper.findWebElement(findTestObject('Object Repository/test/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/div_141500'), 
     20)
 
-WebElement destElement = WebUiCommonHelper.findWebElement(findTestObject('Object Repository/test/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/div_141400'), 
+WebElement destElement = WebUiCommonHelper.findWebElement(findTestObject('Object Repository/test/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/div_141500'), 
     20)
 
-builder.moveToElement(destElement, 200, 0).click().keyDown(Keys.SHIFT).release().build().perform()
+builder.moveToElement(destElement, 100, 0).click().keyDown(Keys.SHIFT).release().build().perform()
 
 WebUI.delay(2)
 
-builder.moveToElement(destElement, 400, 0).click().keyDown(Keys.SHIFT).release().build().perform()
+builder.moveToElement(destElement, 600, 0).click().keyDown(Keys.SHIFT).release().build().perform()
 
 WebUI.delay(2)
 
-builder.moveToElement(WebUiCommonHelper.findWebElement(findTestObject('Object Repository/test/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/div_S beatW'), 20)).doubleClick ().keyDown(Keys.SHIFT).release().build().perform()
+builder.moveToElement(WebUiCommonHelper.findWebElement(findTestObject('Object Repository/test/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/div_V beatE'), 
+        20)).click().keyUp(Keys.SHIFT).release().build().perform()
+		
+WebUI.delay(20)
 
-
-
-WebUI.delay(10)
-
-WebUI.click(findTestObject('Object Repository/test/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/div_SVT'))
-
-WebUI.delay(10)
+//
+//
+//WebUI.click(findTestObject('Object Repository/test/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/div_141500'))
+//
+//WebUI.click(findTestObject('Object Repository/test/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/div_VT'))
+//
+//WebUI.click(findTestObject('Object Repository/test/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/rect_Created with Highcharts 9.3.2_huinno-e_95681c'))
+//
+//WebUI.click(findTestObject('Object Repository/test/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/rect_Created with Highcharts 9.3.2_huinno-e_95681c'))
+//
+//WebUI.click(findTestObject('Object Repository/test/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/rect_Created with Highcharts 9.3.2_huinno-e_95681c'))
+//
+//WebUI.click(findTestObject('Object Repository/test/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/rect_Created with Highcharts 9.3.2_huinno-e_1b5bf5'))
+//
+//WebUI.click(findTestObject('Object Repository/test/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/div_V beatE'))
+//
+//WebUI.click(findTestObject('Object Repository/test/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/rect_Created with Highcharts 9.3.2_huinno-s_040835'))
+//
+//WebUI.rightClick(findTestObject('Object Repository/test/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/rect_Created with Highcharts 9.3.2_huinno-e_ff062f'))
+//
+//WebUI.doubleClick(findTestObject('Object Repository/test/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/rect_Created with Highcharts 9.3.2_huinno-e_ff062f'))
+//
