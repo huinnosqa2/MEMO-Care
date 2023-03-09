@@ -55,18 +55,19 @@ WebElement sourceElement = WebUiCommonHelper.findWebElement(findTestObject('Obje
 WebElement destElement = WebUiCommonHelper.findWebElement(findTestObject('Object Repository/test/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/div_141400'), 
     20)
 
+builder.moveToElement(destElement, 200, 0).click().keyDown(Keys.SHIFT).release().build().perform()
+
+WebUI.delay(2)
+
 builder.moveToElement(destElement, 400, 0).click().keyDown(Keys.SHIFT).release().build().perform()
 
 WebUI.delay(2)
 
-builder.moveToElement(destElement, 700, 0).click().keyUp(Keys.SHIFT).release().build().perform()
+builder.moveToElement(WebUiCommonHelper.findWebElement(findTestObject('Object Repository/test/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/div_S beatW'), 20)).doubleClick ().keyDown(Keys.SHIFT).release().build().perform()
 
-WebUI.delay(2)
 
-builder.moveToElement(WebUiCommonHelper.findWebElement(findTestObject('Object Repository/test/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/div_S beatW'), 
-    20)).click().release().clickAndHold()().perform()
 
-WebUI.delay(2)
+WebUI.delay(10)
 
 WebUI.click(findTestObject('Object Repository/test/Page_MEMO Care/Page_MEMO Care/Page_MEMO Care/div_SVT'))
 
