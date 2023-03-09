@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_141500</name>
+   <tag></tag>
+   <elementGuidId>da4819ca-2493-44fc-9095-061f6299c550</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div[2]/div/div/div[2]/div/div/div/div/div[3]/div/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>666be0a3-5cd2-47a1-be58-f44c85e61913</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-fvpsdx cNJnnG</value>
+      <webElementGuid>dc7cbb2b-ba60-422e-afd2-4bb6eda95e20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>14:15:00</value>
+      <webElementGuid>c6066699-4abc-408b-a664-335d5829cde4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-jWUzzU dgZbAM&quot;]/div[@class=&quot;sc-eFegNN cGKrit&quot;]/div[@class=&quot;sc-eBHJIF jnAICa&quot;]/div[@class=&quot;sc-ewSTlh jlayFw&quot;]/div[@class=&quot;sc-fDMmqs hWPHwC&quot;]/div[@class=&quot;sc-lVTEl elpYdT&quot;]/div[@class=&quot;sc-eSJyHI fbCugD&quot;]/div[@class=&quot;sc-jnrVZQ lmpOfX&quot;]/div[1]/div[1]/div[1]/div[3]/div[1]/div[@class=&quot;sc-kjOQFR hoMJYh&quot;]/div[@class=&quot;sc-bXdNzS iHzBlg&quot;]/div[@class=&quot;sc-eySxxw eOJAaa&quot;]/div[@class=&quot;sc-fvpsdx cNJnnG&quot;]</value>
+      <webElementGuid>3404fab8-7f32-4b7a-a46b-cf954f23c107</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div[2]/div/div/div[2]/div/div/div/div/div[3]/div/div/div/div/div[2]</value>
+      <webElementGuid>0743c9f2-bfd6-47c5-9278-6e5e7e845c94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created with Highcharts 9.3.2'])[4]/following::div[7]</value>
+      <webElementGuid>11060c85-c339-413b-8fd6-9b08d378af2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created with Highcharts 9.3.2'])[3]/following::div[17]</value>
+      <webElementGuid>50d9bddb-5e2d-4909-bdbf-1548c5e42d90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created with Highcharts 9.3.2'])[5]/preceding::div[1]</value>
+      <webElementGuid>76e678c9-6685-4107-9143-d1074c9b1da6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created with Highcharts 9.3.2'])[6]/preceding::div[8]</value>
+      <webElementGuid>1d6b35e2-f0f0-490b-9ada-1af4955528fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='14:15:00']/parent::*</value>
+      <webElementGuid>bb3f8399-fba8-42ad-a0de-1cbcebeee8a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div[2]</value>
+      <webElementGuid>bf95e1e7-94fd-4ef3-8b17-319495d07744</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '14:15:00' or . = '14:15:00')]</value>
+      <webElementGuid>d40132d5-ddc7-494a-9f77-a75cfaa897ec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

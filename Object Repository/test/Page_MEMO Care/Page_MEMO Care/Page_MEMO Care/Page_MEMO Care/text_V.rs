@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_V</name>
+   <tag></tag>
+   <elementGuidId>2aabedaa-e025-4430-bfae-af01460aeef2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//text[(text() = 'V' or . = 'V')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>g.beats-event-button-587.highcharts-button-hover > text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>330d7be6-6a5f-4ac8-8fd8-6e69b8a33044</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>x</name>
+      <type>Main</type>
+      <value>8.5</value>
+      <webElementGuid>9f6a8370-fc4b-491a-8cc7-b515127ce383</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-z-index</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>45c85974-a6b6-489c-8ec8-be6c917ef71e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>y</name>
+      <type>Main</type>
+      <value>17</value>
+      <webElementGuid>3aa0bebf-fe19-4bd5-923c-1cbaa1c3f5ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>V</value>
+      <webElementGuid>199f4d33-13b3-4587-9c49-91b1e5862e64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;highcharts-c5xbxhh-397586&quot;)/svg[@class=&quot;highcharts-root&quot;]/g[@class=&quot;beats-event-button-587 highcharts-button-hover&quot;]/text[1]</value>
+      <webElementGuid>0a23f835-9d18-465b-8899-1d7e40846468</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//text[(text() = 'V' or . = 'V')]</value>
+      <webElementGuid>7e48f9b7-1524-4491-87e6-9dc4002cbe2c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
