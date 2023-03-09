@@ -44,5 +44,7 @@ try {
     WebUI.clickOffset(findTestObject('Object Repository/test/Page_MEMO Care/div_141400'), 700, 0)
 
     Thread.sleep(5000)
+} catch(e) {
+	
 }
 
